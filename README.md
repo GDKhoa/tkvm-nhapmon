@@ -1,9 +1,4 @@
-feature-25161144
 
-
-Lê Đức Khánh 
-MSSV 25161144
-I'm Khanhsky
 
 
 Link Repo https://github.com/GDKhoa/tkvm-nhapmon.git
