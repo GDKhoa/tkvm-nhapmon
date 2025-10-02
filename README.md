@@ -11,11 +11,5 @@ Nguyễn Trường Kim Hân
 MSSV 25161121
 yâu!
 
-Lê Đức Khánh 
-MSSV 25161144
-I'm Khanhsky
 
-Nguyễn Nhật Trường
-MSSV:25161216
-Sinh viên ngành thiết kế vi mạch đại học SPKT TP HCM
 
